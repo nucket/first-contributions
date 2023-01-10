@@ -1219,7 +1219,7 @@ Rhythm Sharma
 - [Suhyeon Yu](https://github.com/RSuhyeon)
 - [Rajat](https://github.com/alphadinu)
 - [Fitriningtyas](https://github.com/fitrifityanto)
-- [Nucket](https://github.com/nucket)
+- [Nucket](https://github.com/nucket) 
 <!-- prettier-ignore-end -->
 
 Ulises Quiñonez
